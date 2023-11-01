@@ -1,7 +1,14 @@
 # Scrap-Amazon-Sellers
 
 ## Python Script To Scrap Amazon Seller Details
-Scrap Seller Data from Product Url. Provide Data In this Form. Script Accept Product Url
+
+
+## Installation
+```pip install selenium```
+
+## Details
+
+Providing the product URL or Product Name + Product ID to Get Seller Details. You can add multiple product details and script will scrap all the seller details related to product.
 
 
 
